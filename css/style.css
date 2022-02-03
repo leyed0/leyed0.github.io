@@ -4,6 +4,6 @@ body{
 }
 
 .TopMenu{
-    display: inline-block;
-    background-color: white;
+    display: block;
+    background-color: red;
 }
