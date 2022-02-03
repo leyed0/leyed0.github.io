@@ -2,3 +2,7 @@ body{
     background-color: #121212;
     color: #ffffff;
 }
+
+.TopMenu{
+    display: inline-block;
+}
