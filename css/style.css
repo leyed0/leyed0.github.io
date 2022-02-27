@@ -8,6 +8,11 @@ body{
     overflow: hidden;
     background-color: red;
 }
+.TopMenu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 .TopMenu a{
     float: left;
     color: #f2f2f2;
@@ -16,8 +21,7 @@ body{
     text-decoration: none;
     font-size: 17px;
 }
-.TopMenu ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.TopMenu a:hover {
+  background-color: #ddd;
+  color: black;
 }
