@@ -8,3 +8,6 @@ body{
     display: block;
     background-color: red;
 }
+.topmenu ul{
+    display: inline-block;
+}
