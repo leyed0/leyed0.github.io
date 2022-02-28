@@ -3,6 +3,7 @@ body{
     /* background-color: #1a1a1a; */
     color: #ffffff;
     max-width: 1000px;
+    margin: auto;
 }
 
 .TopMenu{
