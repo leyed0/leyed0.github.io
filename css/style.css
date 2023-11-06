@@ -30,6 +30,9 @@ body{
 }
 
 
+.Social-Media{
+    display: flex;
+}
 .fa-brands {
     justify-content: center;
     align-items: center;
