@@ -28,3 +28,12 @@ body{
   background-color: #ddd;
   color: black;
 }
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
