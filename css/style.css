@@ -32,6 +32,9 @@ body{
 
 .fa-brands {
     display: flex;
+    justify-content: center;
+    align-items: center;
+  
     padding: 20px;
     font-size: 30px;
     width: 50px;
