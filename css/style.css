@@ -32,7 +32,13 @@ body{
 
 .Social-Media{
     display: flex;
+    list-style: none;
 }
+
+.Social-Media li{
+    text-decoration: none;
+}
+
 .fa-brands {
     justify-content: center;
     align-items: center;
