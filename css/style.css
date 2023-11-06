@@ -40,6 +40,7 @@ body{
 }
 
 .fa-brands {
+    display: flex;
     justify-content: center;
     align-items: center;
   
