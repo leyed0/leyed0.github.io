@@ -39,6 +39,10 @@ body{
     text-decoration: none;
 }
 
+.Social-Media li a{
+    text-decoration: none;
+}
+
 .fa-brands {
     display: flex;
     justify-content: center;
