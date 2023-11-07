@@ -47,14 +47,15 @@ body{
     height: 100%;
 }
 
-.fa-brands {
+
+.Social-Media li a i{
     size: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
   
     border-radius: 50%;
-    font-size: 80%;
+    font-size: 40px;
 
     background-color: #005181;
     color: #ec9929;
