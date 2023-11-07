@@ -41,10 +41,11 @@ body{
 
 .Social-Media li a{
     text-decoration: none;
+    transition: all .3s ease-out;
 }
 
 .Social-Media li a i:hover{
-    transition: all .3s ease-in-out;
+    transition: all .3s ease-in;
     transform: scale(1.2);
     opacity: 80%;
 }
