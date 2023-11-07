@@ -44,6 +44,7 @@ body{
 }
 
 .Social-Media li a i:hover{
+    transition-duration: 50ms;
     animation-delay: 50ms;
     opacity: 80%;
     scale: 1.1;
