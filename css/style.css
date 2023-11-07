@@ -44,10 +44,10 @@ body{
 }
 
 .fa-github{
-    padding: 0;
-    font-size: 50px;
-    color: #005181;
-    background-color: #ec9929;
+    padding: 0 !important;
+    font-size: 50px !important;
+    color: #005181 !important;
+    background-color: #ec9929 !important;
 }
 
 .Social-Media li a i{
