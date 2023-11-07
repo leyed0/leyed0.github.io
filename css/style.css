@@ -47,7 +47,8 @@ body{
     height: 100%;
 }
 
-.fa-brands {
+.Social-Media li a i{
+    font-size: 40px;
     size: 100%;
     display: flex;
     justify-content: center;
@@ -58,4 +59,4 @@ body{
 
     background-color: #005181;
     color: #ec9929;
-  }
+}
