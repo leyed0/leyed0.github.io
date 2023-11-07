@@ -45,12 +45,11 @@ body{
 
 .fa-github{
     padding: 0 !important;
-    margin: 0 !important;
-    font-size: 80px !important;
+    font-size: 70px !important;
     color: #005181 !important;
     background-color: #ec9929 !important;
-    width: 80px !important;
-    height: 80px !important;
+    width: 70px !important;
+    height: 70px !important;
 }
 
 .Social-Media li a i{
