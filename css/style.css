@@ -46,7 +46,7 @@ body{
 .Social-Media li a i:hover{
     animation-delay: 10ms;
     opacity: 80%;
-    scale: 1.05;
+    scale: 1.1;
 }
 
 .fa-github{
