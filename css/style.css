@@ -41,11 +41,11 @@ body{
 
 .Social-Media li a{
     text-decoration: none;
+    transition: all 300ms ease-in-out;
 }
 
 .Social-Media li a i:hover{
     transform: scale(1.2);
-    transition-duration: 500ms;
     opacity: 80%;
 }
 
