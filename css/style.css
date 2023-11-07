@@ -44,7 +44,6 @@ body{
 }
 
 .Social-Media li a i:hover{
-    text-decoration: none;
     opacity: 50%;
     scale: 1.2;
     transform: scale(1.2);
